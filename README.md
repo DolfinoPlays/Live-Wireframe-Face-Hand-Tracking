@@ -18,7 +18,7 @@ A real-time face and hand tracking application using MediaPipe and OpenCV that c
 
 ## Requirements
 
-- Python 3.7+
+- Python 3.7 - 3.11
 - Webcam
 
 ## Installation
