@@ -105,8 +105,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- [MediaPipe](https://google.github.io/mediapipe/) by Google for face and hand detection
-- [OpenCV](https://opencv.org/) for computer vision functionality
+- [MediaPipe](https://github.com/google-ai-edge/mediapipe) by Google for face and hand detection
+- [OpenCV](https://opencv.org) for computer vision functionality
 
 ## Future Improvements
 
