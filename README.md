@@ -28,6 +28,11 @@ A real-time face and hand tracking application using MediaPipe and OpenCV that c
 
 2. Click "Download ZIP"
 
+3. Install required packages:
+```bash
+pip install opencv-python mediapipe numpy
+```
+
 ### Option 2:
 
 1. Clone this repository:
