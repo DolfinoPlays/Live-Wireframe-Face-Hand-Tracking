@@ -22,6 +22,13 @@ A real-time face and hand tracking application using MediaPipe and OpenCV that c
 - Webcam
 
 ## Installation
+### Option 1:
+
+1. Click the "Code" button
+
+2. Click "Download ZIP"
+
+### Option 2:
 
 1. Clone this repository:
 ```bash
